@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[Demo](http://demo.getport.io/) | [Docs](https://docs.getport.io/) | [Slack](https://join.slack.com/t/port-community/shared_invite/zt-1wdjwizkn-0i7g9LQeQ4rdU5_YSe6vDA)
+[Demo](https://demo.getport.io/) | [Docs](https://docs.getport.io/) | [Slack](https://join.slack.com/t/port-community/shared_invite/zt-1wdjwizkn-0i7g9LQeQ4rdU5_YSe6vDA)
 
 </div>
 
