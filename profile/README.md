@@ -25,6 +25,9 @@ Our list of providers, exporters and open-source integrations:
   <a href="https://github.com/port-labs/port-aws-exporter">Port AWS Exporter</a>
 </h2>
 <h2 align="center">
+  <a href="https://github.com/port-labs/ocean">Port Ocean</a>
+</h2>
+<h2 align="center">
   <a href="https://github.com/port-labs/port-agent">Port Agent</a>
 </h2>
 <h2 align="center">
