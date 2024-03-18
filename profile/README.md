@@ -1,6 +1,7 @@
 <h1 align="center">
-  <p align="center">Port</p>
-  <a href="https://docs.getport.io"><img src="https://port-graphical-assets.s3.eu-west-1.amazonaws.com/Port+Logo.svg" alt="Port"></a>
+  <a href="https://docs.getport.io">
+    <img src="https://port-graphical-assets.s3.eu-west-1.amazonaws.com/Port+Logo+With+Background.png" alt="Port" width="350px">
+  </a>
 </h1>
 
 <p align="center">
