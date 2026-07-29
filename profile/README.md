@@ -1,36 +1,76 @@
-<h1 align="center">
-  <a href="https://docs.getport.io">
-    <img src="https://port-graphical-assets.s3.eu-west-1.amazonaws.com/Port+Logo+With+Background.png" alt="Port" width="350px">
+<p align="center">
+  <a href="https://port.io">
+    <img src="https://avatars.githubusercontent.com/u/97434394?v=4" width="96" alt="Port logo">
   </a>
-</h1>
+</p>
+
+<h1 align="center">Open source at Port</h1>
 
 <p align="center">
-<a href="https://join.slack.com/t/port-community/shared_invite/zt-1wdjwizkn-0i7g9LQeQ4rdU5_YSe6vDA"><img src="https://img.shields.io/badge/join-Slack-blue?style=flat-square&logo=slack"/></a>
+  Port is an Agentic SDLC platform used by humans and agents to build, govern, and operate the SDLC. We build its integration and execution foundations in the open.
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://docs.port.io/getting-started/overview/"><strong>Get started</strong></a>
+  ·
+  <a href="https://port.io"><strong>Port website</strong></a>
+  ·
+  <a href="https://docs.port.io"><strong>Documentation</strong></a>
+  ·
+  <a href="https://www.port.io/community"><strong>Community</strong></a>
+</p>
 
-[Demo](https://demo.getport.io/) | [Docs](https://docs.getport.io/) | [Slack](https://join.slack.com/t/port-community/shared_invite/zt-1wdjwizkn-0i7g9LQeQ4rdU5_YSe6vDA)
+## ⭐ Featured projects
 
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/port-labs/ocean">Ocean</a></h3>
+      <p><strong>Develop and operate integrations.</strong></p>
+      <p>An open-source framework and integration library for bringing live data from third-party systems into Port's Context Lake.</p>
+      <br>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/port-labs/port-k8s-exporter">Port K8s Exporter</a></h3>
+      <p><strong>Ground agents in live Kubernetes context.</strong></p>
+      <p>Map, watch, and continuously export Kubernetes resources and their relationships into Port's Context Lake.</p>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/port-labs/port-agent">Port Agent</a></h3>
+      <p><strong>Execute agentic workflows inside your environment.</strong></p>
+      <p>Run workflow actions and respond to engineering events without exposing your internal services to the public internet.</p>
+      <br>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/port-experimental/port-plugins">Port Plugins</a></h3>
+      <p><strong>Build custom widgets for Port pages.</strong></p>
+      <p>Ready-made and adaptable widgets for Port dashboards, from scorecards and dependency trees to DORA metrics and TechDocs.</p>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/port-experimental">Port Experimental</a></h3>
+      <p><strong>Explore tools taking shape around Port.</strong></p>
+      <p>An open collection of early-stage utilities, plugins, SDKs, examples, and experiments from the Port ecosystem.</p>
+      <br>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/port-labs/port-skills">Port Agent Skills</a></h3>
+      <p><strong>Build Port from your coding agent.</strong></p>
+      <p>Curated Agent Skills for creating Port blueprints, integrations, workflows, dashboards, and plugins with compatible AI coding tools.</p>
+      <br>
+    </td>
+  </tr>
+</table>
 
-We are building the Developer Portal that brings everyone together. ❤️ Platform Engineering? Feel free to reach out.
+## 🙌 Contribute
 
-This is Port's GitHub organization, here you can keep track of our OSS projects, make contributions or take a look at the various code examples to integrate Port with your environment.
+Issues and pull requests are welcome on any of the projects above. For questions or ideas, hang out in the [Port community](https://www.port.io/community).
 
-Our list of providers, exporters and open-source integrations:
+## 🤝 Join us
 
-<h2 align="center">
-  <a href="https://github.com/port-labs/ocean">Port Ocean</a>
-</h2>
-<h2 align="center">
-  <a href="https://github.com/port-labs/port-k8s-exporter">Port K8s Exporter</a>
-</h2>
-<h2 align="center">
-  <a href="https://github.com/port-labs/port-aws-exporter">Port AWS Exporter</a>
-</h2>
-<h2 align="center">
-  <a href="https://github.com/port-labs/port-agent">Port Agent</a>
-</h2>
-<h2 align="center">
-  <a href="https://github.com/port-labs/port-docs">Port Docs</a>
-</h2>
+We are hiring across all teams; check out our [Careers page](https://www.port.io/careers) and join us!
